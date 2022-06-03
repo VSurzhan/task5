@@ -6,7 +6,6 @@
 #include <cmath>
 #include <fstream>
 #include <vector>
-#include <omp.h>
 #include <string>
 #include <map>
 
